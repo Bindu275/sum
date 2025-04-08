@@ -9,5 +9,6 @@ public class add {
         int num2 = scanner.nextInt();
         int sum = num1 + num2;
         System.out.println("The sum of the two numbers is: " + sum);
+        System.err.println("Adding 2 numbers");
     }
 }
